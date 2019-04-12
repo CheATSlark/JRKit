@@ -1,0 +1,16 @@
+PODS:
+  - JRKit (0.1.0)
+
+DEPENDENCIES:
+  - JRKit (from `../`)
+
+EXTERNAL SOURCES:
+  JRKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JRKit: d551201c6e78c567ede82e544f560d6d6bd11a8a
+
+PODFILE CHECKSUM: 9f8c6ff351220f79a024eab9f62a4c1a7aebb8c8
+
+COCOAPODS: 1.6.1

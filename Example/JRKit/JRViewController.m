@@ -7,6 +7,7 @@
 //
 
 #import "JRViewController.h"
+#import <UIColor+Extra.h>
 
 @interface JRViewController ()
 
@@ -18,6 +19,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    self.view.backgroundColor = [UIColor randomColor];
 }
 
 - (void)didReceiveMemoryWarning
